@@ -966,7 +966,7 @@
     <section class="deals">
         <div class="container">
             <div class="section-title">
-                <h2>Super Saver Sale</h2>
+                <h2>Flash Sale</h2>
                 <p>Limited time offers - don't miss out!</p>
             </div>
             
